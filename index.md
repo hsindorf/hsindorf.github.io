@@ -5,7 +5,7 @@ title: Hannah Sindorf
 
 ## Welcome!
 
-My name is Hannah Sindorf. I am a software developer based in Seattle currently working for the London, UK company **Flyt**, which is a subsidiary of Just Eat.
+My name is Hannah Sindorf. I am a software developer based in Seattle currently working for the London, UK company **Flyt**, which is a subsidiary of Just Eat. Currently, I'm mostly working in TypeScript (and a little bit of PHP).
 
 With this website, I aim to give a brief work and educational history. For a more traditional resume, feel free to [visit my LinkedIn profile](https://www.linkedin.com/in/sindorf/){:target="\_blank" rel="noopener"}.
 
@@ -25,12 +25,13 @@ With this website, I aim to give a brief work and educational history. For a mor
 ### [**Intermedia**](https://www.intermedia.net/){:target="\_blank" rel="noopener"} | Onboarding Specialist
 
 - Intermedia is a leading one-stop shop for Unified Communications, Exchange, VoIP, file sharing, & other business cloud services.
+- At Intermedia, I reached out to new VoIP clients and walked them through setting up their network equipment for optimal sound quality.
 
 ## Education
 
 ### [**Code Fellows**](https://www.codefellows.org/){:target="\_blank" rel="noopener"} | Software Development Certificate
 
-- At Code Fellows
+- At Code Fellows, I studied full-stack Python and JavaScript. I worked on several projects both alone and collaboratively.
 
 ### [**University of Washington**](http://www.washington.edu/){:target="\_blank" rel="noopener"} | B.A. Linguistics, Japanese
 
