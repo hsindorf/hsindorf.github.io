@@ -5,7 +5,7 @@ title: Hannah Sindorf
 
 ## Welcome!
 
-My name is Hannah Sindorf. I am a software developer based in Seattle currently working for the London, UK company Flyt, which is a subsidiary of Just Eat.
+My name is Hannah Sindorf. I am a software developer based in Seattle currently working for the London, UK company **Flyt**, which is a subsidiary of Just Eat.
 
 With this website, I aim to give a brief work and educational history. For a more traditional resume, feel free to [visit my LinkedIn profile](https://www.linkedin.com/in/sindorf/){:target="\_blank" rel="noopener"}.
 
@@ -13,9 +13,9 @@ With this website, I aim to give a brief work and educational history. For a mor
 
 ### [**Flyt**](https://flyt.io/){:target="\_blank" rel="noopener"} | Software Developer
 
-Flyt develops, deploys, and supports POS integrations to enable [Just Eat](https://www.just-eat.com/){:target="\_blank" rel="noopener"} to deploy restaurants at enterprise scale.
+- Flyt develops, deploys, and supports POS integrations to enable [Just Eat](https://www.just-eat.com/){:target="\_blank" rel="noopener"} to deploy restaurants at enterprise scale.
 
-At Flyt, my team does initial discovery and development of POS integrations. Because of this, I am exposed to tons of API technologies and architecture styles.
+- At Flyt, my team does initial discovery and development of POS integrations. Because of this, I am exposed to tons of API technologies and architecture styles.
 
 ### [**Avvo**](https://www.avvo.com/){:target="\_blank" rel="noopener"} | Website Support Specialist
 
@@ -30,6 +30,10 @@ At Flyt, my team does initial discovery and development of POS integrations. Bec
 
 ### [**Code Fellows**](https://www.codefellows.org/){:target="\_blank" rel="noopener"} | Software Development Certificate
 
+- At Code Fellows
+
 ### [**University of Washington**](http://www.washington.edu/){:target="\_blank" rel="noopener"} | B.A. Linguistics, Japanese
 
-For more detailed work and educational history, [see my LinkedIn profile](https://www.linkedin.com/in/sindorf/){:target="\_blank" rel="noopener"}!
+- From Wikipedia, `"Linguistics is the scientific study of language. It involves analysing language form, language meaning, and language in context."`
+
+For more detailed work and educational history, or if you are interested in contacting me, [visit my LinkedIn profile](https://www.linkedin.com/in/sindorf/){:target="\_blank" rel="noopener"}!
