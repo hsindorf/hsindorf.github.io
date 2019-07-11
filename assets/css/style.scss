@@ -49,7 +49,12 @@ h3 {
     #ebd112
   );
   border-bottom: 3px solid #b50c0c;
+
   @media (min-width: 42em) {
-    padding: 2em;
+    padding: 4em;
   }
+}
+
+.project-tagline {
+  margin-bottom: 0.5em;
 }
